@@ -1,0 +1,77 @@
+[
+    {
+        "number": 1,
+        "question":"Title: The Early Bird\nQuestion: What can be African, Emperor, Little or Macaroni?",
+        "answer":"These are all species of penguin"
+    },
+    {
+        "number": 6,
+        "question":"Title: Where next?\nQuestion: What follows Vienna, Brussels, Prague, Copenhagen, Tallinn, Helsinki, Athens?",
+        "answer":"Budapest. The European countries of which these are the capitals begin with A, B, C, ... Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, Greece, Hungary."
+    },
+    {
+        "number": 8,
+        "question":"Title: Concealed animal\nQuestion: Here is a list of animals. But which other animal is hiding?\nRACCOON, PARROT, LEMMING, KOOKABURRA, AARDVARK, LINNET, OTTER",
+        "answer":"Cormorant. Thi`s is hidden in the double letters raCCOOn paRRot, leMMing, kOOkabuRRa, AArdvark, liNNet, oTTer"
+    },
+    {
+        "number": 13,
+        "question":"Title: A round of drinks\nQuestion: What could follow Mojito, Eggnog, Riesling, Lemonade, Ouzo?",
+        "answer":"Tea, or any drink beginning with T. The initial letters spell MERLOT"
+    },
+    {
+        "number": 16,
+        "question":"Title: Missing and not missing\nQuestion: Eric, Graham, John, Michael, Terry. Which name is both missing and not missing?",
+        "answer":"Terry. These are the first names of the Monty Python Team. Terry is missing, but as there is another Terry, it's also not missing."
+    },
+    {
+        "number": 18,
+        "question":"Title: Friends in other countries\nQuestion: Gary has friends in countries all around the world including Argentina, Denmark, Russia, Sudan and the United States. Which country is Gary in?",
+        "answer":"Gary is in hunGARY, His friends are argenTINA, denMARK, RUSSia, suDAN, and the uniTED states"
+    },
+    {
+        "number": 22,
+        "question":"Title: A question to put you to sleep\nQuestion: Find a whole number which when spelled out has its letters in alphabetical order",
+        "answer":"FORTY (winks!)"
+    },
+    {
+        "number": 26,
+        "question":"Title: Missing word\nQuestion: What word is missing: AAGKN, ABBIRT, EEEORY, EGGIRT, EGILPT, LOW, OOR",
+        "answer":"HOOP. The set are Christopher Robin's animal friends with their letters in alphabetical order: Kanga, Rabbit, Eeyore, Tigger, Piglet, Owl, Roo. Missing is Pooh, who becomes HOOP"
+    },
+    {
+        "number": 29,
+        "question":"Title: Odd one out\nQuestion: Which is the odd one out: FIRM, HELM, SOAK, WASH",
+        "answer":"FIRM. Each word contains a three letter tree, FIRm, hELM, sOAK, wASH, but only in FIRM is the tree at the beginning."
+    },
+    {
+        "number": 37,
+        "question":"Title: The Magic Words\nQuestion: What four words come before all the following: 1. PS, 2. COS, 3. POA, 4. GOF, 5. OOTP, 6. H-BP, 7. DH",
+        "answer":"Harry Potter and the. The letters are the initial letters of the ends of Harry Potter book titles: 1. Philosopher's Stone, 2. Chamber of Secrets, 3. Prisoner of Azkaban, 4. Goblet of Fire, 5. Order Of the Phoenix, 6. Half-Blood Prince, 7. Deathly Hallows"
+    },
+    {
+        "number": 40,
+        "question":"Title: Names\nQuestion: Apart from being names, what do the following have in common:\nALICE, CICELY, ELAINE, ESTHER, JANE, JASON, MARIAN, NORMA, RONALD",
+        "answer":"They are all anagrams of other names:\nALICE, CICELY, ELAINE, ESTHER, JANE, JASON, MARIAN, NORMA, RONALD\nCELIA, CECILY, AILEEN, HESTER, JEAN, JONAS, JONAS, MARINA, ROMAN, ROLAND"
+    },
+    {
+        "number": 44,
+        "question":"Title: Missing country\nQuestion: Which is the only country that can come next in this sequence:\nCyprus, Sweden, Morocco, ?",
+        "answer":"Madagascar. The countries contain 1, 2, 3 and 4 identical vowels: cyprUs, swEdEn, mOrOccO, mAdAgAscAr"
+    },
+    {
+        "number": 52,
+        "question":"Title: Odd one out\nQuestion: Which is the odd one out: Romeo, Two Zero, Brown, Force, Liverpool",
+        "answer":"Liverpool. This can be succeeded by a letter in the NATO phonetic alphabet; The others can be preceeded by one. The sequence involves first 5 letters: Alfa Romeo, Bravo Two Zero, Charlie Brown, Delta Force, Liverpool Echo."
+    },
+    {
+        "number": 57,
+        "question":"Title: For the ears\nQuestion: What links the following, and where might you find them all together?\nEar, Champagne, Shoe, Bermuda, Ear - and Super",
+        "answer":"They preceed things you might find in an orchestra: ear DRUM, champagne FLUTE, shoe HORN, bermuda TRIANGLE, ear TRUMPET and super CONDUCTOR"
+    },
+    {
+        "number": 68,
+        "question":"Title: Spot the link\nQuestion: What links: a Golf course, Website navigation, Deodorant, Nintendo characters, and a Cat.",
+        "answer":"What links these is 'LINKS', or 'LYNX'"
+    }
+]

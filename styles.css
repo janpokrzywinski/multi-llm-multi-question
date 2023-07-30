@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #111; /* Set the background to a darker color for dark mode */
+    color: #fff; /* Set the text color to white for better readability */
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+#jsonQuestionsContainer {
+    border: 1px solid #555; /* Change the border color for better visibility */
+    padding: 10px;
+    background-color: #222; /* Set the background color for the container */
+}
+
+#jsonQuestionsContainer > div {
+    border: 1px solid #666; /* Change the border color for better visibility */
+    background-color: #333; /* Set the background color for the question div */
+    padding: 10px;
+}
+
+#jsonQuestionsContainer li {
+    /* Make each key in the list items bold */
+    font-weight: bold;
+}
+
+/* Make the value in the answers list items normal weight */
+#jsonQuestionsContainer li span:last-child {
+    font-weight: normal;
+}
+
+/* Increase font size for the questions */
+#jsonQuestionsContainer .question {
+    font-size: 20px; /* Slightly larger font size for the questions */
+}
+
+/* Style for the "correct answer" text */
+.correct-answer {
+    font-weight: bold;
+    color: #8bc34a; /* Green color for the correct answer */
+}
